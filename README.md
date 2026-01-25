@@ -29,9 +29,9 @@ This project includes both a **Command-Line Version** and a **GUI Version** usin
 
 ## 🛠 Technologies Used
 
-- Python 🐍
-- Tkinter (for GUI)
-- Random & String modules
+- Python 🐍  
+- Tkinter (for GUI)  
+- Random & String modules  
 
 ---
 
@@ -40,4 +40,33 @@ This project includes both a **Command-Line Version** and a **GUI Version** usin
 ### Run Command-Line Version
 ```bash
 python password_generator.py
+Run GUI Version
+bash
+Copy code
 python password_generator_gui.py
+🔒 Password Strength Rules
+The generator ensures:
+
+At least one letter (if selected)
+
+At least one number (if selected)
+
+At least one symbol (if selected)
+
+Randomized secure output
+
+
+📚 Learning Outcomes
+This project helped me understand:
+
+Random string generation
+
+User input validation
+
+GUI development using Tkinter
+
+Writing secure password logic
+
+👩‍💻 Author
+Devika Warekar
+Python Programming Intern 🚀
